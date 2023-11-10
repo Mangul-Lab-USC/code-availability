@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/653886996.svg)](https://zenodo.org/doi/10.5281/zenodo.10108744)
 ## Data Availability 
 All data used in this study is available in the data folder on this repository. The file named **240_B.txt** is used for the major analysis of this study while the **journal_data.csv** file is used for creating a supplementary table. 
 ## Code Availability 
