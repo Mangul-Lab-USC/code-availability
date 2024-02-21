@@ -28,3 +28,7 @@ Once this is done running, the notebook should run
 
 ### Google Collab
 We will be adding a google collab notebook that everyone can use to rerun the code to generate the figures as well in the near future. 
+
+###Citation
+Nitesh Kumar Sharma, Ram Ayyala, Dhrithi Deshpande, Yesha M Patel, Viorel Munteanu, Dumitru Ciorba, Andrada Fiscutean, Mohammad Vahed, Aditya Sarkar, Ruiwei Guo, Andrew Moore, Nicholas Darci-Maher, Nicole A Nogoy, Malak S. Abedalthagafi, Serghei Mangul
+bioRxiv 2023.07.31.551384; doi: https://doi.org/10.1101/2023.07.31.551384
